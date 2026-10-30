@@ -100,14 +100,38 @@ A Java-based car rental management project focused on object-oriented programmin
 [View Repository](https://github.com/kristigj9/RentCar_Hibernate)
 
 ---
-  
 
-## Education
+## Professional Experience
 
-- BSc Informatics — University of Tirana (In progress)
-- Java Developer Internship — Lufthansa Industry Solutions (2026)
-- Full Stack Java Training — Software Development Academy (2025)
+### Java Developer Intern
+**Lufthansa Industry Solutions (LHIND)** | May – August 2026
 
+- Developed a backend Event Booking Platform using Java, Spring Boot, Hibernate, and MySQL.
+- Implemented REST APIs, JWT authentication, and role-based access control.
+- Applied layered architecture and database persistence.
+- Developed unit and integration tests.
+- Presented the completed project to the LHIND Training Team.
+
+### Team Leadership & Digital Operations
+**Local Web, Italy — Google Premium Partner**
+
+- Extensive experience in team coordination and digital operations.
+- Led and mentored teams of 5–9 consultants.
+- Developed analytical, organizational, and problem-solving skills.
+
+---
+## Education & Training
+
+**Bachelor of Science in Informatics**  
+University of Tirana | 2024 – Present
+
+**Full Stack Java Development**  
+Software Development Academy (SDA) | 2025
+
+**Master of Science in Chemical Process Engineering**  
+University of Tirana | 2012 – 2014
+
+---
 ## Contact
 
 [Email](mailto:kristi.gjosasi123@gmail.com) | [GitHub](https://github.com/kristigj9)
