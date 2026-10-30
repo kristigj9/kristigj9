@@ -9,13 +9,30 @@ I completed a Java Developer Internship at **Lufthansa Industry Solutions (LHIND
 
 My professional background also includes team leadership and operations management, strengthening my problem-solving and collaboration skills.
 
+
 ## Technical Skills
 
-- **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate
-- **Database:** MySQL, SQL
-- **Frontend:** HTML, CSS, JavaScript, Angular
-- **Tools:** Git, GitHub, Maven, Swagger
-- **Concepts:** REST APIs, JWT, OOP, Unit & Integration Testing
+**Backend Development**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="38" alt="Java" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="38" alt="Spring Boot" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="38" alt="Hibernate" title="Hibernate"/>
+</p>
+
+**Database & Tools**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="38" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="38" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="38" alt="Postman" title="Postman"/>
+</p>
+
+**Additional Technologies**
+
+`Spring Security` · `Spring Data JPA` · `REST APIs` · `JWT` · `SQL` · `Angular` · `Maven` · `Swagger`
+  
 
 ## Featured Project
 
