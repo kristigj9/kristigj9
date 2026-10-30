@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**kristigj9/kristigj9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Kristi Gjosasi
 
-Here are some ideas to get you started:
+### Java Backend Developer | Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Java Backend Developer with hands-on experience building RESTful applications using Java, Spring Boot, Hibernate, and MySQL.
+
+I completed a Java Developer Internship at **Lufthansa Industry Solutions (LHIND)**, where I developed an Event Booking Platform with authentication, reservations, payments, and automated testing.
+
+My professional background also includes team leadership and operations management, strengthening my problem-solving and collaboration skills.
+
+## Technical Skills
+
+- **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate
+- **Database:** MySQL, SQL
+- **Frontend:** HTML, CSS, JavaScript, Angular
+- **Tools:** Git, GitHub, Maven, Swagger
+- **Concepts:** REST APIs, JWT, OOP, Unit & Integration Testing
+
+## Featured Project
+
+### Event Booking Platform
+
+A secure backend application for event and venue management, seat reservations, bookings, payments, waitlists, and notifications.
+
+**Tech Stack:** Java, Spring Boot, Spring Security, Hibernate, MySQL
+
+[View Project](https://github.com/kristigj9/event-booking-api)
+
+## Education
+
+- BSc Informatics — University of Tirana (In progress)
+- Java Developer Internship — Lufthansa Industry Solutions (2026)
+- Full Stack Java Training — Software Development Academy (2025)
+
+## Contact
+
+[Email](mailto:kristi.gjosasi123@gmail.com) | [GitHub](https://github.com/kristigj9)
+  
