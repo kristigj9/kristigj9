@@ -34,8 +34,29 @@ My professional background also includes team leadership and operations manageme
 `Spring Security` · `Spring Data JPA` · `REST APIs` · `JWT` · `SQL` · `Angular` · `Maven` · `Swagger`
   
 
-## Featured Project
 
+## Featured Projects
+
+### Event Booking Platform
+
+**Java Backend Development| 2026**
+
+A backend application designed to manage events, venues, seat reservations, bookings, payments, waitlists, notifications, and reviews through secure REST APIs.
+
+**Key Features**
+- JWT authentication and role-based access control
+- Event and venue management
+- Seat reservations and booking workflows
+- Payments and waitlist management
+- Notifications and user reviews
+- Unit and integration testing
+
+**Tech Stack:** `Java` · `Spring Boot` · `Spring Security` · `Spring Data JPA` · `Hibernate` · `MySQL`
+
+[View Repository](https://github.com/kristigj9/event-booking-api)
+
+---
+  
 ### Event Booking Platform
 
 A secure backend application for event and venue management, seat reservations, bookings, payments, waitlists, and notifications.
