@@ -82,6 +82,23 @@ A Java-based chess application featuring a graphical 3D chess interface, game lo
 
 [View Repository](https://github.com/kristigj9/Chess_Game_AI)
 
+
+### RentCar Hibernate
+
+**Java | Hibernate ORM | Database Persistence**
+
+A Java-based car rental management project focused on object-oriented programming and database persistence using Hibernate ORM.
+
+**Technical Focus**
+- Java application development
+- Object-oriented design
+- Hibernate ORM integration
+- Database persistence
+
+**Tech Stack:** `Java` · `Hibernate` · `ORM` · `OOP`
+
+[View Repository](https://github.com/kristigj9/RentCar_Hibernate)
+
 ---
   
 
