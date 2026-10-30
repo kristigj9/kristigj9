@@ -65,6 +65,26 @@ A secure backend application for event and venue management, seat reservations, 
 
 [View Project](https://github.com/kristigj9/event-booking-api)
 
+
+### Chess Game AI
+
+**Java | Object-Oriented Programming | Game Development**
+
+A Java-based chess application featuring a graphical 3D chess interface, game logic, and AI-oriented development.
+
+**Technical Highlights**
+- Object-oriented application design
+- Chess game logic and move handling
+- Graphical 3D chess interface
+- Java application development
+
+**Tech Stack:** `Java` · `OOP` · `Game Logic` · `3D GUI`
+
+[View Repository](https://github.com/kristigj9/Chess_Game_AI)
+
+---
+  
+
 ## Education
 
 - BSc Informatics — University of Tirana (In progress)
